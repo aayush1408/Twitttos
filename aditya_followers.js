@@ -1,4 +1,4 @@
-//A twitter bot that allows me to follow a single person and all of his followers 
+//A twitter bot that allows me to follow a single person and all of his followers
 
 const twitter = require('twitter');
 const config = require('./config');
